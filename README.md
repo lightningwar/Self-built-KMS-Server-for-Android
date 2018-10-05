@@ -2,10 +2,10 @@
 ### 作用
 ` 激活 Windows 系统、激活 office 全套 `
 ### 支持版本
-![Supportted Version](https://raw.githubusercontent.com/lightningwar/Self-built-KMS-Server-for-Android/master/Supportted%20Version.txt)
+[Supportted Version](https://raw.githubusercontent.com/lightningwar/Self-built-KMS-Server-for-Android/master/Supportted%20Version.txt)
 ### 如何下载最新版本的 Windows ISO 文件
 - Chrome
-- ![Windows10最新版微软官方下载地址](https://www.microsoft.com/zh-cn/software-download/windows10ISO/)
+- [Windows10最新版微软官方下载地址](https://www.microsoft.com/zh-cn/software-download/windows10ISO/)
 - F12 → DevTools → More Tools → Networks conditions → Unchecked Select automatically → Chrome-Mac
 - Then you can download the latest version.
 
@@ -23,8 +23,8 @@ slmgr /dlv
 ```bash
 slmgr /upk
 ```
-- ![KMS 客户端微软安装密钥](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys)
-- 在 Android 手机安装 ![KMS-Server-Client.apk](https://github.com/lightningwar/Self-built-KMS-Server-for-Android/releases/download/v1.0/KMS-Server-Client.apk)
+- [KMS 客户端微软安装密钥](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys)
+- 在 Android 手机安装 [KMS-Server-Client.apk](https://github.com/lightningwar/Self-built-KMS-Server-for-Android/releases/download/v1.0/KMS-Server-Client.apk)
 - 手机端接入本地局域网，启动服务器，查看服务器IP地址
 - 在命令提示符(管理员)中依次键入
 ```bash
