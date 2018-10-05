@@ -1,4 +1,5 @@
 # Self-built-KMS-Server-for-Android
+> 个人娱乐，请勿用于商业用途，概不负责。
 ### 作用
 ` 激活 Windows 系统、激活 office 全套 `
 ### 支持版本
