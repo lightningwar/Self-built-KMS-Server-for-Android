@@ -1,8 +1,4 @@
-https://v0v.bid
-
-windows系统一句命令激活
-
-本站支持激活的Windows系统和Office版本：
+支持激活的Windows系统和Office版本：
 
   1 = Windows Server 2008 Standard                    63 = Windows 7 Professional N
   2 = Windows Server 2008 Standard V                  64 = Windows Vista Enterprise
